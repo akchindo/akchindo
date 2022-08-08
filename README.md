@@ -15,5 +15,5 @@ I'm a Software Engineer . I'm passionate about sharing and gaining knowledge
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=akchindo&show_icons=true&include_all_commits=true&hide_border=true" alt="Abdullahi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akchindo&langs_count=8&layout=compact&hide_border=true" alt="Abdulahi's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=akchindo&show_icons=true&include_all_commits=true&hide_border=true" alt="Abdullahi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akchindo&langs_count=8&layout=compact&hide_border=true" alt="Abdullahi's GitHub stats" /> |
 | ------------- | ------------- |
